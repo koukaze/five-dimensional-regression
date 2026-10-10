@@ -4,8 +4,7 @@ References
 Course specification
 --------------------
 
-B. Bolliet, *C1 Research Computing Coursework*, MPhil in Data Intensive Science,
-University of Cambridge, Michaelmas Term 2025. The assignment specifies a
+B. Bolliet, *Research Computing*: specification for a
 five-dimensional regression application with a Python package, REST API,
 web interface, tests, documentation and container configuration.
 
