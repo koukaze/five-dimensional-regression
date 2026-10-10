@@ -2,8 +2,6 @@
 
 A web application for fitting a multilayer perceptron to five input features and a scalar target.
 
-**Peijing Pang · Cambridge MPhil in Data Intensive Science · C1 Research Computing coursework (2025)**
-
 The project combines TensorFlow/Keras regression, a FastAPI service and a Next.js interface. Upload a numeric dataset, configure and train a model, inspect split-level metrics, and predict from new feature values. A generated example dataset is included.
 
 ## Features
